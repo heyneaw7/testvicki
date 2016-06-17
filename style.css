@@ -62,20 +62,20 @@
   display: flex;
 }
 .contactus {
-  min-height: 400px;
+  min-height: 450px;
   background-color: #e6e6e6;
 }
 .contactus h3 {
   color: #767676;
   text-decoration-style: bold;
-  padding: 30px 0 70px;
+  padding: 30px 0 50px;
 }
 .button {
   color: #68D2BA;
 }
 .footer {
-  min-height: 80px;
-  padding: 35px;
+  min-height: 60px;
+  padding: 25px;
   background-color: #4C9383;
   color: #fff;
 }
